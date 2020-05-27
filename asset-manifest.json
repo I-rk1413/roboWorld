@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roboWorld/static/css/main.db2e253a.chunk.css",
+    "main.js": "/roboWorld/static/js/main.6b0b560c.chunk.js",
+    "main.js.map": "/roboWorld/static/js/main.6b0b560c.chunk.js.map",
+    "runtime-main.js": "/roboWorld/static/js/runtime-main.fb277cc5.js",
+    "runtime-main.js.map": "/roboWorld/static/js/runtime-main.fb277cc5.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/roboWorld/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.2082894f.chunk.js": "/roboWorld/static/js/2.2082894f.chunk.js",
+    "static/js/2.2082894f.chunk.js.map": "/roboWorld/static/js/2.2082894f.chunk.js.map",
+    "index.html": "/roboWorld/index.html",
+    "precache-manifest.0ff620bbaecfeb7c1aaa50069d114501.js": "/roboWorld/precache-manifest.0ff620bbaecfeb7c1aaa50069d114501.js",
+    "service-worker.js": "/roboWorld/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/roboWorld/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.db2e253a.chunk.css.map": "/roboWorld/static/css/main.db2e253a.chunk.css.map",
+    "static/js/2.2082894f.chunk.js.LICENSE.txt": "/roboWorld/static/js/2.2082894f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboWorld/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb277cc5.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.2082894f.chunk.js",
+    "static/css/main.db2e253a.chunk.css",
+    "static/js/main.6b0b560c.chunk.js"
+  ]
+}
